@@ -1,0 +1,1 @@
+HomeSecurity.py包括pyqt制作的前端，调用了deepface的人脸识别模块和基于yolov5的火焰烟雾检测模块
